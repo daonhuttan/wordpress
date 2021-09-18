@@ -1,0 +1,4 @@
+2021-09-18T10:02:23+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO), expecting ';' or ',' in C:\xampp\htdocs\TMDT\wp-content\themes\storefront\functions.php on line 82
+
+2021-09-18T10:03:21+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO), expecting ';' or ',' in C:\xampp\htdocs\TMDT\wp-content\themes\storefront\functions.php on line 82
+
